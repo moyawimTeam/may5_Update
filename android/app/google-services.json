@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068717812316",
+    "firebase_url": "https://moyawimbackend-a7f46.firebaseio.com",
+    "project_id": "moyawimbackend-a7f46",
+    "storage_bucket": "moyawimbackend-a7f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068717812316:android:d84c54a9a514b400105499",
+        "android_client_info": {
+          "package_name": "team.moyawim2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068717812316-19v1fo756rn32j0b9ktlcu3k584eho72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.moyawim2",
+            "certificate_hash": "e4be3627fb653c27dc010151a565f3fa3a052e4d"
+          }
+        },
+        {
+          "client_id": "1068717812316-errbhrv43di0e6ejs0dhrik0sehlusac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtb-_ZZRjJMOqjZS2gB8qZrg0EraiP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068717812316-errbhrv43di0e6ejs0dhrik0sehlusac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
